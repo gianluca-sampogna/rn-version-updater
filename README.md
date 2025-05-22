@@ -80,5 +80,3 @@ Execute um dos comandos abaixo, de acordo com sua necessidade:
 * **iOS:** o `CFBundleVersion` (build) é incremental dentro da mesma versão. Ao alterar a versão (`VERSAO_APP`), o contador de build reinicia.
 
 ---
-
-Se quiser, posso complementar com uma seção de **“Requisitos”**, **“Instalação”** e **“Possíveis problemas”**. Me fala! 🔥
